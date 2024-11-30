@@ -1,0 +1,62 @@
+
+
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <title>MY FAVOURITE ANIME</title>
+
+</head>
+
+<body>
+
+    <h1>my favourite anime  </h1>
+
+    <p>hello guys, my name is vincent and this is a website that i and my friend want to show you guys abour our favourite anime.That anime is haikyu.</p>
+
+    <h2>this is some information about my friend</h2>
+
+    <ul>
+        <li>
+            <img src="/storage/emulated/0/Pictures/Zalo/IMG_20241130_114550.jpg"=" her pic" width ="120">
+            <p>Her name is Thu Huong, she studies at Thap Cham high school, class 12a1, lives in Phan Rang Thap Cham city.
+                Her hobbies are cooking, listening musaic.. </p><a href="https://www.facebook.com/profile.php?id=100077995729560" target="_blank">this is her facebook </a></li>
+        <li>
+     <img src="/storage/emulated/0/DCIM/MyAlbums/myself/IMG_20241125_153731.jpg"="my pic" width ="120">
+        <p>This is me.My name is phat tien. I also study at Thap Cham high school, class 12a1, live in Phan Rang Thap Cham city.
+  My hobbies are watching anime, reading novels, drawing,..</p>
+        <a href="https://www.facebook.com/profile.php?id=100076083459440" target="_blank">my facebook </a></li>
+    </ul>
+    <h3>HAIKYU</h3>
+    <img src="/storage/emulated/0/Pictures/Anh-Haikyuu-2.jpg"="haikyu" width ="131">
+    <p>Haikyū!! (Japanese:ハイキュー!!, Haikyū!!) is a shōnen sports anime series based on the manga series by Haruichi Furudate, and produced by Production IG and Toho in association with the Japanese television network MBS. The anime series consists of four seasons, four movies, and five OVAs. In the United States, Sentai Filmworks licensed the anime series and has dubbed seasons one through four into English.
+The series can be streamed on Crunchyroll, Apple TV, and Google TV</p>
+    <h4>Seanson</h4>
+    <ul>
+        <li><p>Main article: Episode Guide
+Season 1
+Haikyū!! season one was announced in September 2013,[1] and the first episode aired on April 6, 2014 on MBS and other JNN affiliated stations. The season consists of 25 episodes, and concluded on September 21, 2014.</p></li>
+
+        <li> <p>Season 2
+Haikyū!! season two was announced in December 2014,[2] and its 25 episodes were aired between October 4, 2015 and March 26, 2016.</p></li>
+
+        <li> <p>Season 3
+Haikyū!! Karasuno High School vs Shiratorizawa Academy (ハイキュー!! 烏野高校 VS 白鳥沢学園高校), the third season of Haikyū!!, was anounced in March 2016.[3] This season was shorter, consisting of only 10 episodes, and aired between October 7, 2016 and December 9, 2016.</p></li>
+
+        <li><p>Season 4/-strong/-heart:>:o:-((:-h Haikyū!! To The Top (ハイキュー!! TO THE TOP), the fourth season of Haikyū!!, was announced in September 2019.[4] The season is split into two cours, with the first cours of 13 episodes being aired between January 10, 2020 and April 3, 2020. The second cours was due to begin airing in July 2020, but due to the COVID-19 pandemic[5] it was postponed. The second cour aired from October 2, 2020[6] to December 18, 2020.</p></li>
+
+        <li><p>Haikyū!! FINAL
+        As part of the Haikyū!! 10th Anniversary celebrations in 2022, it was announced that the anime would be completed in two movies, dubbed Haikyū!! FINAL. On September 24, 2023, it was announced that the first film, named Haikyū!! The Movie: Decisive Battle at the Garbage Dump, would be released in cinemas on February 16, 2024.</p></li>
+        </ul>
+    <video width ="320" height="240" controls>
+        <source src="/storage/emulated/0/DCIM/Camera/833f89776a20a4d03e5616a0a40ec940.mp4" type="video/mp4">
+    </video>
+    <p> fly high song</p>
+    <p><a href="https://youtu.be/VKviyEGvb94?si=fs0tUo_ap60ALLQG">a song from hakiyu</a></p>
+     
+    <p> There are some other great anime series if you want click here</p>
+    <a href="other anime/good anime.html">other anime</a>
+    </body>
+</html>
